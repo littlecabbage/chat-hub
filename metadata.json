@@ -1,0 +1,7 @@
+{
+  "name": "OmniChat AI Command Center",
+  "description": "A unified interface to interact with multiple AI platforms simultaneously. Features native Gemini API integration and a split-screen web view for other platforms like Kimi and DeepSeek with a synchronized prompt clipboard.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
